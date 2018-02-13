@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogadores", "Jogadores\Joga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hosting", "Hosting\Hosting.csproj", "{E64722E5-C9FB-4AFC-B55A-DDC2E525CE9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumindoServico", "ConsumindoServico\ConsumindoServico.csproj", "{70A9D6A1-EDEE-4526-9175-F19374C377F3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{14BFD952-9289-43CC-B42D-7E509F7A7F09} = {14BFD952-9289-43CC-B42D-7E509F7A7F09}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +26,10 @@ Global
 		{E64722E5-C9FB-4AFC-B55A-DDC2E525CE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64722E5-C9FB-4AFC-B55A-DDC2E525CE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64722E5-C9FB-4AFC-B55A-DDC2E525CE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A9D6A1-EDEE-4526-9175-F19374C377F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A9D6A1-EDEE-4526-9175-F19374C377F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A9D6A1-EDEE-4526-9175-F19374C377F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A9D6A1-EDEE-4526-9175-F19374C377F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

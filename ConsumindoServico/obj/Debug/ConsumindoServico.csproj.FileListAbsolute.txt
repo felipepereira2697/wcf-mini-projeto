@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.Cache
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\Felipe\source\repos\Jogadores\ConsumindoServico\obj\Debug\ConsumindoServico.pdb
