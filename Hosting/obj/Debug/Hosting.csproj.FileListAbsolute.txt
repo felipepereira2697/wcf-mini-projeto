@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Hosting.exe
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Hosting.pdb
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Jogadores.dll
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Jogadores.pdb
+C:\Users\Felipe\source\repos\Jogadores\Hosting\bin\Debug\Jogadores.dll.config
+C:\Users\Felipe\source\repos\Jogadores\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\source\repos\Jogadores\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Jogadores\Hosting\obj\Debug\Hosting.exe
+C:\Users\Felipe\source\repos\Jogadores\Hosting\obj\Debug\Hosting.pdb
