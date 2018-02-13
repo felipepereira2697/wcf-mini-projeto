@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\bin\Debug\Jogadores.dll.config
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\bin\Debug\Jogadores.dll
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\bin\Debug\Jogadores.pdb
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\obj\Debug\Jogadores.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\obj\Debug\Jogadores.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\obj\Debug\Jogadores.dll
+C:\Users\Felipe\source\repos\Jogadores\Jogadores\obj\Debug\Jogadores.pdb
